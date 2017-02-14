@@ -187,7 +187,7 @@ $('#bannerTwitter').click(function() {
                {height: "98px"});
            }
         else if ($("#twitterBox").height() == 21) {
-           $("#twitterBox").animate({height: "438px"});
+           $("#twitterBox").animate({height: "515"});
            }
 });
 $('#bannerReddit').click(function() {
@@ -197,7 +197,7 @@ $('#bannerReddit').click(function() {
                {height: "98px"});
            }
         else if ($("#redditBox").height() == 21) {
-           $("#redditBox").animate({height: "438px"});
+           $("#redditBox").animate({height: "515px"});
            }
 });
 
